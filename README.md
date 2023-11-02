@@ -41,9 +41,9 @@ Open a pull request to the main repository.
 
 
 Tables Description :
-Employee Database
+Employee Database and Customer Database
 ![employee](https://github.com/SuhasSindhuvadi/BankingApplication/assets/134517158/547aee0d-cc8e-421b-b7dd-2a50759ecdf4)
-Customer Database
+
 ![customer](https://github.com/SuhasSindhuvadi/BankingApplication/assets/134517158/d00c3362-c4c5-4b87-a373-5d3a0febdcd4)
 
 
