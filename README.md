@@ -38,3 +38,13 @@ Create a new branch for your feature: git checkout -b feature-name
 Make your changes and commit them: git commit -m 'Add feature-name'
 Push to your branch: git push origin feature-name
 Open a pull request to the main repository.
+
+
+Tables Description :
+Employee Database
+![employee](https://github.com/SuhasSindhuvadi/BankingApplication/assets/134517158/547aee0d-cc8e-421b-b7dd-2a50759ecdf4)
+Customer Database
+![customer](https://github.com/SuhasSindhuvadi/BankingApplication/assets/134517158/d00c3362-c4c5-4b87-a373-5d3a0febdcd4)
+
+
+
